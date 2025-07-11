@@ -1,4 +1,4 @@
-# Hammer PDF - Smart Scientific Reader
+# Hammer PDF - A Smart Scientific Reader
 
 ![Logo](./images/logo.svg)
 
@@ -111,6 +111,7 @@ File an issue:
 Thank you to all the members who participated in this project!<br>
 感谢参与该项目的所有成员！
 
+<a href="https://github.com/DaDaMrX" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/18094391?v=4" alt="Heng-Da Xu" title="Xu Hengda"/></a>
 <a href="https://github.com/wongself" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/32129269?v=4" alt="Wang Shengfu" title="Wang Shengfu"/></a>
 <a href="https://github.com/BITLiuSH" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/25365134?v=4" alt="Liu Shuhang" title="Liu Shuhang"/></a>
 <a href="https://github.com/Lyfralston" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/53141839?v=4" alt="Lu Yifan" title="Lu Yifan"/></a>
